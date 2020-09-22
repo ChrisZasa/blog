@@ -1,10 +1,11 @@
 ---
 title: "Le programme de mentoring de R-Ladies : le voyage de R-Ladies Cotonou"
-author: "[Nadejda Sero](https://twitter.com/sbnadejda), organisatrice à [R-Ladies Cotonou](https://twitter.com/RLadiesCtn)"
-date: "2020-08-04"
+author: "Nadejda Sero"
+date: "2020-09-25"
 description: "R-Ladies programme de mentoring"
 tags: 
 - mentoring 
+- afrique
 - organizer
 - français
 categories:
@@ -42,7 +43,7 @@ Avant de pouvoir régler cette question, l'accès à Internet est devenu un prob
 
 Environ un an et demi s'était écoulé depuis la création du groupe. Pas de rencontres, pas de membres. Début 2019, j'ai reçu un message de [Claudia Vitolo](https://twitter.com/clavitolo), co-fondatrice de R-Ladies Global, qui voulait savoir si notre groupe existait toujours. Cela m'a brisé le cœur de voir une si bonne initiative sur le point de disparaître. Je me sentais coupable et triste. Et le miracle s'est produit ! Claudia m'a proposé de trouver un mentor pour m'aider à développer notre groupe ! Dès que j’ai accepté l'offre, mon mentor s’est engagé dans la lutte pour activer R-Ladies Cotonou.  
 
-## 👥 Le Programme de mentoring de R-Ladies à la rescousse! 👯
+## 👥 Le Programme de mentoring de R-Ladies à la rescousse!
 
 Mon mentor [Florencia D'Andrea](https://twitter.com/cantoflor_87), organisatrice de [R-Ladies Buenos Aires](https://twitter.com/RLadiesBA) et aussi ma « R-sister » (ou Sœur-en-R), comme nous nous sommes finalement baptisées, est apparue au bon moment et a beaucoup changé les choses, à commencer par mon doute de moi-même quant à l'organisation. Nous avons principalement travaillé à travers des discussions sur Slack. Elle m'a questionnée sur mes difficultés et nous avons étudié chacune d'elles pour trouver de nombreuses solutions.
 
@@ -77,5 +78,7 @@ Aujourd'hui, R-Ladies Cotonou est en bonne santé, surtout grâce au programme d
 
 > ***Ne vous inquiétez pas, il y a toujours un mentor de R-Ladies pour vous accompagner !***
 
-
+_Auteure: [Nadejda Sero](https://twitter.com/sbnadejda), organisatrice à [R-Ladies Cotonou](https://twitter.com/RLadiesCtn)_
+_Traduction en espagnol: Florencia D'Andrea_ 
+_Relecture: Mine Dogucu and Divya Sernaami_
 
