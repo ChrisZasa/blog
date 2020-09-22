@@ -1,10 +1,11 @@
 ---
 title: "El programa de mentorías de R-Ladies: la historia de  R-Ladies Cotonou"
-author: "[Nadejda Sero](https://twitter.com/sbnadejda), organizador en [R-Ladies Cotonou](https://twitter.com/RLadiesCtn)"
-date: "2020-08-04"
+author: "Nadejda Sero"
+date: "2020-09-25"
 description: "Programa de mentorías de R-Ladies"
 tags: 
 - community
+- africa
 - mentoring
 - español
 categories:
@@ -49,8 +50,7 @@ Cerca de un año y medio habia pasado desde la creación del capítulo. Sin even
 ¡Pero el milagro ocurrió! Claudia me sugirió que el programa de mentorías podría ayudarme con el desarrollo inicial del capítulo.
 Luego de aceptar la oferta, mi mentora se unió a los esfuerzos por salvar R-Ladies Cotonou.
 
-# 👥 El programa de mentorías de R-Ladies al rescate! 👯
-♂️
+# 👥 El programa de mentorías de R-Ladies al rescate!
 
 Mi mentora [Florencia D'Andrea](https://twitter.com/cantoflor_87), co-organizadora de [R-Ladies Buenos Aires](https://twitter.com/RLadiesBA) y también mi "R-hermana", como nos bautizamos, apareció en el momento justo y cambió muchas cosas, comenzando por mis dudas respecto a mis capacidades como organizadora. Principalmente trabajamos a través de mensajes directos en el Slack. Ella me preguntó sobre los incovenientes que tenía y estudiamos cada uno de ellos considerando varias soluciones posibles.
 
@@ -83,3 +83,8 @@ Estoy profunda y sinceramente agradecida con mi mentora Florencia, que realmente
 ¡Hoy R-Ladies Cotonou goza de buena salud gracias al programa de mentorías! Se lo recomiendo a cualquier capítulo que necesite ayuda para organizar reuniones, encontrar nuevos miembros o cualquier otra cosa necesaria para la vida del capítulo.
 
 > ***¡No te preocupes, siempre habrá una R-Lady que camine contigo!***
+
+
+_Autora: [Nadejda Sero](https://twitter.com/sbnadejda), organizador en [R-Ladies Cotonou](https://twitter.com/RLadiesCtn)_
+_Traducción en español: Florencia D'Andrea_
+_Corrección de pruebas: Mine Dogucu and Divya Sernaami_
